@@ -1,0 +1,18 @@
+version: '3'
+services:
+  web:
+    image: feromon-api
+    container_name: feromon-api
+    restart: always
+    command: python feromonApi/manage.py runserver 0.0.0.0:8000
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
+    ports:
+      # workstation public port 8180
+      - "8180:8000"
+    volumes:
+      - /home/ziya/Desktop/data_xx/bug_akif:/home/appuser/detectron2_repo/detectron2/feromon_api
+

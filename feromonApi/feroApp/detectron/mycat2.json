@@ -1,0 +1,259 @@
+{
+    "categories": [
+        {
+            "id": 32,
+            "name": "AkdenizCamKabukBocegi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 13,
+            "name": "AkdenizMeyveSinegi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 39,
+            "name": "AkdenizOrmanBahcivani",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 40,
+            "name": "AltiDisliCamKabukBocegi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 47,
+            "name": "AltinGozluBocek",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 44,
+            "name": "Ari",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 27,
+            "name": "ArpaGuvesi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 22,
+            "name": "BaklaZinni",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 28,
+            "name": "BugdayBiti",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 38,
+            "name": "BuyukOrmanBahcivani",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 35,
+            "name": "CamKeseBocegi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 36,
+            "name": "CamKulturHortumluBocegi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 34,
+            "name": "CamSurgunBukucusu",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 5,
+            "name": "CicekTripsi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 25,
+            "name": "DegirmenGuvesi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 11,
+            "name": "DoguMeyveGuvesi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 4,
+            "name": "DomatesGuvesi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 29,
+            "name": "ElbiseGuvesi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 21,
+            "name": "ElmaGovdeKurdu",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 2,
+            "name": "ElmaIcKurdu",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 12,
+            "name": "ElmaYaprakBukeni",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 19,
+            "name": "ErikIcKurdu",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 900,
+            "name": "Feromon",
+            "supercategory": "other"
+        },
+        {
+            "id": 42,
+            "name": "FindikDalkiran",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 30,
+            "name": "GoknarBuyukKabukBocegi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 10,
+            "name": "HarnupGuvesi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 17,
+            "name": "KirazSinegi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 23,
+            "name": "KirmiziPalmiyeBocegi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 15,
+            "name": "KizilAgacKurdu",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 41,
+            "name": "KucukGoknarKabukBocegi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 37,
+            "name": "KucukOrmanBahcivani",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 24,
+            "name": "KuruMeyveGuvesi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 16,
+            "name": "LimonCicekGuvesi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 45,
+            "name": "MisirKocanKurdu",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 33,
+            "name": "OnikiDisliCamKabukBocegi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 7,
+            "name": "PamukPembeKurt",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 8,
+            "name": "PamukYaprakKurdu",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 6,
+            "name": "PatatesGuvesi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 1,
+            "name": "SalkimGuvesi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 20,
+            "name": "SariAgacKurdu",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 18,
+            "name": "SeftaliGuvesi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 43,
+            "name": "SekizDisliCamKabukBocegi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 46,
+            "name": "Sinek",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 48,
+            "name": "AltinGozluYesilBocek",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 901,
+            "name": "Tanimsiz",
+            "supercategory": "other"
+        },
+        {
+            "id": 26,
+            "name": "TatliKurt",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 31,
+            "name": "YatayDisliGoknarKabukBocegi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 9,
+            "name": "YesilKurt",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 3,
+            "name": "ZeytinGuvesi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 14,
+            "name": "ZeytinSinegi",
+            "supercategory": "bugs"
+        },
+        {
+            "id": 902,
+            "name": "Cisim",
+            "supercategory": "other"
+        }
+    ]
+}
