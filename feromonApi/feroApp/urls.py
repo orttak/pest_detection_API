@@ -8,7 +8,9 @@ from feroApp import views
 # ]
 
 urlpatterns = [
-    path('feromon/predict/', views.feromon_view, name='feromon_view'), 
+    path('feromon/predict/', views.feromon_view, name='feromon_view'),
+    path('feromon/jsontogeo/', views.jsontogeojson, name='jsontogeojson'),
+    path('feromon/geojsontojson/', views.geojsontojson, name='geojsontojson'),
 ]
 
 from rest_framework.urlpatterns import format_suffix_patterns
