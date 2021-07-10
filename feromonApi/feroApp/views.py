@@ -10,6 +10,7 @@ import urllib.request as urllib
 import numpy as np
 #import main detectron function
 from .detectron.bug_detectron import get_bug
+from .detectron.corn_counter import corn_inference
 from .detectron.jsonToGeojson import jsonToGeojson
 from .detectron.geojsonToJson import get_json_from_geojson
 
@@ -19,6 +20,16 @@ def feromon_view(request):
             url=request.GET['imgurl']
             bug_result=get_bug(url)
             return JsonResponse(bug_result)
+        except:
+            return JsonResponse({'Response':'Bad request'})
+
+def corn_view(request):
+    if request.method == 'GET':
+        try:
+            img_h_url=request.GET['img_h_url']
+            img_w_url=request.GET['img_w_url']
+            json_h,json_w,k_h=corn_inference(img_h_url=img_h_url,img_w_url=img_w_url)
+            return JsonResponse({'corn_height':json_h,'corn_width':json_w,'numberOfKernel':k_h})
         except:
             return JsonResponse({'Response':'Bad request'})
 

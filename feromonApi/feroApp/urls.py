@@ -9,6 +9,7 @@ from feroApp import views
 
 urlpatterns = [
     path('feromon/predict/', views.feromon_view, name='feromon_view'),
+    path('corn/predict/', views.corn_view, name='corn_view'),
     path('feromon/jsontogeo/', views.jsontogeojson, name='jsontogeojson'),
     path('feromon/geojsontojson/', views.geojsontojson, name='geojsontojson'),
 ]
